@@ -1,0 +1,11 @@
+.gender-container{
+    text-align: center;
+    padding: 32px;
+}
+
+.gender-container .card-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 48px;
+}
